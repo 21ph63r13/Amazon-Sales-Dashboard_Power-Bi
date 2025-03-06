@@ -1,15 +1,15 @@
-# Amazon-Sales-Dashboard_Power-Bi
+![Amazon1](https://github.com/user-attachments/assets/163125c1-343f-4748-afe1-49ecb5347f13)# Amazon-Sales-Dashboard_Power-Bi
+
+![Amazon2](https://github.com/user-attachments/assets/15ef10e2-27ee-443a-a578-ebe35aab524a)
+
+![Amazon3](https://github.com/user-attachments/assets/ae961e6b-400d-4578-b831-9bd45693ee36)
+
+![Amazon4](https://github.com/user-attachments/assets/8189a593-124e-4bf1-9e89-334e475373bf)
 
 
 
 This interactive dashboard provides key insights into Amazon's e-commerce metrics, helping businesses track performance and optimize strategies:
-![Screenshot (3)](https://github.com/user-attachments/assets/08f8f737-5d2b-4eb6-a69f-8da9536d7959)
 
-![Screenshot (4)](https://github.com/user-attachments/assets/729f5a3b-ab76-4179-896f-c9845826a7a7)
-
-![Screenshot (5)](https://github.com/user-attachments/assets/690084dd-7d3c-4d9e-978b-619839358acb)
-
-![Screenshot (6)](https://github.com/user-attachments/assets/25baa367-dfb2-4bd4-820a-e37b23a399eb)
 
 
 🔸 $2.5M+ in total sales across multiple product categories 💰
