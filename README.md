@@ -1,4 +1,6 @@
-![Amazon1](https://github.com/user-attachments/assets/163125c1-343f-4748-afe1-49ecb5347f13)# Amazon-Sales-Dashboard_Power-Bi
+# Amazon-Sales-Dashboard_Power-Bi
+
+![Amazon1](https://github.com/user-attachments/assets/163125c1-343f-4748-afe1-49ecb5347f13)
 
 ![Amazon2](https://github.com/user-attachments/assets/15ef10e2-27ee-443a-a578-ebe35aab524a)
 
