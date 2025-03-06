@@ -2,27 +2,28 @@
 
 
 
-Problem Statement:
-Analyze and visualize key aspects of Amazon's sales data including sales performance by product category, customer segment, region, and sales channel. 
-Use data analysis and visualization to identify trends, patterns, and insights which can be used to optimize sales strategies and improve profitability.
+This interactive dashboard provides key insights into Amazon's e-commerce metrics, helping businesses track performance and optimize strategies:
+![Screenshot (3)](https://github.com/user-attachments/assets/08f8f737-5d2b-4eb6-a69f-8da9536d7959)
 
-Insights:
-Standard class is favourite among customers.
+![Screenshot (4)](https://github.com/user-attachments/assets/729f5a3b-ab76-4179-896f-c9845826a7a7)
 
-West region is highest profitable. 
+![Screenshot (5)](https://github.com/user-attachments/assets/690084dd-7d3c-4d9e-978b-619839358acb)
 
-Technology is the highest selling product category.
-
-In 2017, sales reached to 0.7M (Highest). 
+![Screenshot (6)](https://github.com/user-attachments/assets/25baa367-dfb2-4bd4-820a-e37b23a399eb)
 
 
-Recommendation:
-We can increase product for highest subcategory for each category.
+🔸 $2.5M+ in total sales across multiple product categories 💰
 
-Phones in Technology.
+🔸 10,000+ orders processed, with an average order value of $250 📦
 
-Chairs in Furniture.
+🔸 Top-selling categories: Electronics & Home Essentials leading with $500K+ sales each 🏆
 
-Storage in Office Supplies.
+🔸 Customer insights: 4.2-star average rating across products ⭐
 
-To increase sales in South and Central region, we can give more discounts and offers.
+🔸 Regional sales breakdown: Identifying high-performing markets & growth opportunities 🌍
+
+🔸 Sales trends & profit margins: Month-over-month performance analysis 📈
+
+🔸 Returns & refunds tracking: Understanding customer behavior & optimizing retention 🔄
+
+This dynamic Power BI dashboard offers a comprehensive view of Amazon's sales metrics, enabling businesses to make data-driven decisions, boost revenue, and enhance customer experience.
